@@ -1,0 +1,20 @@
+# Add one entry per publication, newest first.
+# "type" can be: journal, conference, preprint, thesis, workshop, etc.
+
+- title: "Example Paper Title Goes Here"
+  authors: "Hajal, R., Coauthor, A., Coauthor, B."
+  venue: "Journal or Conference Name"
+  year: 2026
+  type: "journal"
+  link: "https://doi.org/xxxx"
+  pdf: ""
+  note: "Under review"
+
+- title: "Another Example Paper Title"
+  authors: "Hajal, R., Coauthor, C."
+  venue: "Conference Name, Proceedings of ..."
+  year: 2025
+  type: "conference"
+  link: "https://doi.org/xxxx"
+  pdf: ""
+  note: ""
