@@ -4,24 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Rim Hajal**, a PhD student in **[your department/program]** at **[your university]**, working under the supervision of **[advisor name]**.
+Hi, I'm **Rim Hajal**, a PhD student in **[Optimization and Machine Learning]** at **[University Grenoble-Alpes]**, working under the supervision of **[Jérôme Malick]** and **[Mathieu Besançon]**.
 
 ## Research Interests
 
-<!-- Replace this with 2-4 sentences summarizing your research interests -->
-My research focuses on **[topic 1]**, **[topic 2]**, and **[topic 3]**. I'm broadly interested in **[bigger picture motivation — why this research matters]**.
 
 ## Background
 
-<!-- A short academic bio: prior degrees, institutions, notable experience -->
-- **PhD in [Field]**, [University], [Start Year] – present
-- **M.Sc. in [Field]**, [University], [Year]
-- **B.Sc. in [Field]**, [University], [Year]
 
 ## Beyond Research
-
-<!-- Optional: interests, teaching, outreach, hobbies -->
-Outside of research, I enjoy **[hobby/interest]**, and I'm involved in **[teaching/outreach/service activity]**.
 
 ---
 
