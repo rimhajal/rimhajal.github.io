@@ -24,13 +24,11 @@ permalink: /cv/
 - **[Previous role]**, [Institution] — [Year]–[Year]
   - [One-line description of contribution]
 
-## Teaching Experience
 
-- **[Role, e.g. Teaching Assistant]**, [Course name], [University] — [Term/Year]
+## Teaching
 
-## Awards & Fellowships
-
-- **[Award name]**, [Awarding body] — [Year]
+### Beginner Python Courses
+For loops 101, and how to import .csv file. Complex stuff.
 
 ## Skills
 

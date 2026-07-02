@@ -5,30 +5,19 @@ permalink: /research/
 ---
 
 ## Overview
-
-<!-- 1-2 paragraph summary of your PhD research and its motivation -->
-My PhD research investigates **[core research question]**. This work sits at the intersection of **[field A]** and **[field B]**, and aims to **[goal / contribution]**.
+My PhD research mainly revolved around data-efficient machine learning through optimal transport and optimization algorithms, with a particular focus on active learning and coreset selection. 
 
 ## Current Projects
 
-### [Project Title 1]
-<!-- Short description, methods, status -->
-Brief description of the project, the problem it addresses, and current status (ongoing / under review / completed).
+### Low-Budget Active Learning Through Entropic Optimal Transport
+We address low-budget active learning, where a model should be trained on a small selection only called the coreset. The learning problem formalizes as a combinatorial optimization problem over the hypersimplex, which is provably challenging for existing integer optimization methods and convex relaxations, for complexity and geometry reasons.
+We leverage entropic optimal transport, using the Sinkhorn divergence as the coreset selection criterion, which admits computationally efficient gradient evaluations. This opens the way to using gradient-based algorithms to rapidly compute solution candidates, further improved by a swap-based local search, with guarantees on the solution quality. 
+Paper submitted and will be published soon on arxiv.
 
-### [Project Title 2]
-Brief description of the project, the problem it addresses, and current status.
-
-## Methods & Tools
-
-<!-- Optional: list techniques, software, datasets, equipment you work with -->
-- [Method / technique 1]
-- [Software / tool 2]
-- [Dataset / equipment 3]
-
-## Collaborations
-
-<!-- Optional: labs, institutions, or industry partners you collaborate with -->
-This work is conducted in collaboration with **[lab / group / institution]**.
+### NetSurvival.jl: A Julia Package for Relative Survival Analysis 
+Co-developed **NetSurvival.jl** during my M2 internship, which is a Julia package implementing relative survival analysis algorithms in a modern, high-performance Julia ecosystem. The package provides a pure Julia implementation of established estimators together with documentation, testing, and performance comparisons against existing R software. 
+This work was presented at **JuliaCon 2024** in **Eindhoven, Netherlands**.  
+Paper: [NetSurvival.jl: A glimpse into relative survival analysis with Julia](https://arxiv.org/pdf/2408.15655)
 
 ---
 
