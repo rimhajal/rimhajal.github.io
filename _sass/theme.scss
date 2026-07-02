@@ -90,6 +90,16 @@ header {
 					color: $gray;
 				}
 			}
+			img {
+				width: 26px;
+				height: 26px;
+				margin: 4px 8px 0 8px;
+				vertical-align: top;
+				transition: opacity .3s;
+				&:hover {
+					opacity: .6;
+				}
+			}
 		}
 	}
 }

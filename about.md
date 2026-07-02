@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm **Rim Hajal**, a PhD student in **[Optimization and Machine Learning]** at **[University Grenoble-Alpes]**, working under the supervision of **[Jérôme Malick]** and **[Mathieu Besançon]**.
+Hi, I'm **Rim Hajal**, a PhD student in **Optimization and Machine Learning** at **University Grenoble-Alpes**, working under the supervision of **Jérôme Malick** and **Mathieu Besançon**.
 
 ## Research Interests
 
