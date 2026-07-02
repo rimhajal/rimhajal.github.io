@@ -1,15 +1,10 @@
 title: Rim Hajal | PhD Student
 author: Rim Hajal
-email: rim.hajal@example-university.edu
+email: rim.hajal@univ-grenoble-alpes.fr
 description: > # this means to ignore newlines until "show_excerpts:"
-  Personal academic website of Rim Hajal, PhD student. Research updates,
+  Personal academic website. Research updates,
   publications, and CV.
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Leave baseurl empty if this site will live at the root of its domain
-# (e.g. a custom domain, or a username.github.io repo).
-# If instead it's published at https://username.github.io/repo-name,
-# set baseurl to "/repo-name".
+show_excerpts: true 
 baseurl: ""
 
 sass:
@@ -19,7 +14,7 @@ permalink: /posts/:title/
 
 texture:
   title: Rim Hajal
-  tagline: PhD Student · [Optimization] · [LIG | UGA]
+  tagline: PhD Student · Optimization · LIG | UGA
   date_format: "%b %-d, %Y"
   style: black          
   showNav: true
