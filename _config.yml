@@ -19,13 +19,12 @@ permalink: /posts/:title/
 
 texture:
   title: Rim Hajal
-  tagline: PhD Student · [Department/Field] · [University]
+  tagline: PhD Student · [Optimization] · [LIG | UGA]
   date_format: "%b %-d, %Y"
-  style: blue          # options: yellow | red | black | blue | green | purple
+  style: black          
   showNav: true
-  showPicker: false    # keep false for production
+  showPicker: false    
 
-  # Show the site navigation bar (edit links/titles below)
   navigation:
     - title: About
       url: "/about/"
@@ -38,20 +37,13 @@ texture:
     - title: Contact
       url: "/contact/"
 
-  # generate social links in footer. Remove any lines you don't need.
   social_links:
     github:  rimhajal
-    linkedIn: in/rim-hajal
-    twitter: rimhajal
+    linkedIn: in/rimhajal
+    substack: rimhajal
 
-  # Enable MathJax if you want to render LaTeX equations in posts/pages
   useMathJax: true
 
-  # Uncomment and set to enable Disqus comments on posts
-  # disqus_shortname: your-disqus-shortname
-
-  # Uncomment and set to enable Google Analytics (GA4 measurement ID)
-  # analytics_id: 'G-XXXXXXXXXX'
 
 header_pages:
   - about.md
