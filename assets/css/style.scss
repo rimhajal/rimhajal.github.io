@@ -109,4 +109,16 @@
     .post-date {
         color: #ddd;
     }
+
+.about-profile {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+}
 }
