@@ -8,6 +8,6 @@ permalink: /contact/
 - **GitHub:** [github.com/rimhajal](https://github.com/rimhajal)
 - **LinkedIn:** [linkedin.com/in/rim-hajal](https://linkedin.com/in/rimhajal)
 
-Happy to collab and chat about cool^ stuff!
+Happy to collab and chat about cool[^*] stuff!
 
-^ Very subjective definition of cool.
+[^*] Very subjective definition of cool.
