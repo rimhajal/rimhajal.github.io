@@ -25,4 +25,4 @@ Before that, my bachelor's degree was in **pure maths** which I completed back h
 ## Beyond Research
 Opinion essays, poetry, movies, a lot of clichés and Anthony Bourdain references.
 
-[contact page]({{ '/contact/' | relative_url }}) || [CV]({{ '/cv/' | relative_url }}) || [publications]({{ '/publications/' | relative_url }}).
+[Contact Page]({{ '/contact/' | relative_url }}) || [CV]({{ '/cv/' | relative_url }}) || [Publications]({{ '/publications/' | relative_url }}).
