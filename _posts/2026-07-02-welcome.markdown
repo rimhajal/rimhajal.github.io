@@ -4,4 +4,7 @@ title:  "Hi, hello, salut!"
 ---
 
 Welcome :D
-My name is Rim, I read and write and, sometimes, talk. Topics may vary...
+
+My name is Rim, I read and write and, sometimes, talk.
+
+Topics may vary...
