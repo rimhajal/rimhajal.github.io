@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my site"
+title:  "Hi, hello, salut!"
 date:   2026-07-02 09:00:00 +0000
 categories: news
 ---
 
-Welcome! This is the new home for updates on my PhD research, publications, and talks. Check back here for news, or browse the [About]({{ '/about/' | relative_url }}), [Research]({{ '/research/' | relative_url }}), and [Publications]({{ '/publications/' | relative_url }}) pages to learn more.
+Welcome :D
+
+My name is Rim, I read and write and, sometimes, talk. Topics may vary...
