@@ -62,7 +62,7 @@ header h1 {
 
     h1,
     h2 {
-        color: #ddd;
+        color: #333;
     }
 }
 
@@ -70,15 +70,15 @@ header h1 {
     background-image: url('{{ site.baseurl }}/assets/textures/blue.jpg');
 
     h2 {
-        color: #ddd;
+        color: #333;
     }
 
     .social i:hover {
-        color: #eee;
+        color: #333;
     }
 
     .post-date {
-        color: #ccc;
+        color: #333;
     }
 }
 
@@ -94,18 +94,18 @@ header h1 {
     background-image: url('{{ site.baseurl }}/assets/textures/green.jpg');
 
     .post-date {
-        color: #ccc;
+        color: #333;
     }
 }
 
 .texture-red,
 .texture-purple {
     h2 {
-        color: #ccc;
+        color: #333;
     }
 
     .social i {
-        color: #ddd;
+        color: #333;
 
         &:hover {
             color: lighten(#ddd, 7%);
@@ -113,7 +113,7 @@ header h1 {
     }
 
     .post-date {
-        color: #ddd;
+        color: #333;
     }
 
 .about-profile {
