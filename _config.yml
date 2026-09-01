@@ -14,7 +14,7 @@ permalink: /posts/:title/
 
 texture:
   title: Rim Hajal
-  tagline: PhD Student · Optimization · LIG | UGA
+  tagline: PhD Student · CNRS
   date_format: "%b %-d, %Y"
   style: black          
   showNav: true
