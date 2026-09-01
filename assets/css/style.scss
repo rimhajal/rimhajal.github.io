@@ -51,11 +51,16 @@
     #green { background-color: mediumseagreen; }
 }
 {%- endif -%}
+
+header h1 {
+    color: #333;
+}
 // Textures
 .texture-black {
     background-image: none;
     background-color: #B7C4A8;
 
+    h1,
     h2 {
         color: #333;
     }
