@@ -53,10 +53,11 @@
 {%- endif -%}
 // Textures
 .texture-black {
-    background-image: url('{{ site.baseurl }}/assets/textures/black.jpg');
+    background-image: none;
+    background-color: #DDE5D2;
 
     h2 {
-        color: #999;
+        color: #333;
     }
 }
 
